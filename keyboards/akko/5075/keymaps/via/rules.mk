@@ -1,0 +1,3 @@
+VIA_ENABLE = yes
+RGB_MATRIX = yes
+ENCODER_MAP_ENABLE = yes
